@@ -1,13 +1,16 @@
 import sys
 
-#To get filepath as a cmd line agrument.
-filepath = str(sys.argv[1])
+#To get input filepath as a cmd line agrument.
+infilepath = str(sys.argv[1])
+
+#To get input output filepath as a cmd line agrument.
+outfilepath = str(sys.argv[2])
 
 #To open a desired file in read mode.
-fin=open(filepath,'r')
+fin=open(infilepath,'r')
 
 #To open a file to write into it.
-fout=open("new.csv",'w')
+fout=open(outfilepath,'w')
 
 #imports content line by line.
 line=fin.readline()
