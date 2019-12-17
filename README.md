@@ -8,4 +8,4 @@ This script enhances the process of search engine optimization.:sunglasses:
 2. Input your input file path and the name of output file in which you want your desired output in the command line.
 3. Have an output file with contents ending with commas at each line in your desired output filepath.
 
-####### Any fuitful contributions are widely accepted.:heart:
+###### Any fuitful contributions are widely accepted.:heart:
