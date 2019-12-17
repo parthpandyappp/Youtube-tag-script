@@ -4,7 +4,7 @@ This is a python script which enables a user to have a file as an output as a re
 This script enhances the process of search engine optimization.:sunglasses:
 
 ### How can you obtain the output ?
-1. Run that yt-tag-scrpt.py.
+1. Run that yt-tag-script.py.
 2. Input your input file path and the name of output file in which you want your desired output in the command line.
 3. Have an output file with contents ending with commas at each line in your desired output filepath.
 
