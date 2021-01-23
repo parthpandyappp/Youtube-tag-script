@@ -3,4 +3,4 @@ python:
   - "2.7"
   - "3.8.5"
 script:
-  - python yt-tag-script.py
+  - python yt-tag-script.py example-in.csv example-out.csv
